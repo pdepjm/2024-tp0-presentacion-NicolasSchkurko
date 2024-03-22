@@ -1,6 +1,6 @@
 # TP0-K2104
 ## Presentación
-Hola! Soy **Nicolas Schkurko** *Legajo:214.128-0* tengo 20 años.
+Hola! Soy **Nicolas Schkurko** *Legajo: 214.128-0* tengo 20 años.
 En general me gusta mucho la musica con generos muy variados, los videojuegos, soy fanatico de la escena profesional de Counter Strike y juego voley.
 >Hablando de CS siempre estoy bancando proyectos nacionales como 9z, Bestia o KRU.
 
