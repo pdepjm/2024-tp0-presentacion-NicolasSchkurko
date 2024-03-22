@@ -22,9 +22,11 @@ En general me gusta mucho la musica con generos variados, los videojuegos, la el
 
 <details>
 <summary>Wololo :trollface:</summary>
-
-https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/5a8a69dc-d2a0-403b-ac96-a2ba05d7d283
-
+https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/8da1cf6e-f6fb-4494-ae7a-b3a3961c021f
 </details>
+
+
+
+
 
 
