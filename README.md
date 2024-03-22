@@ -10,4 +10,5 @@ En general me gusta mucho la musica con generos muy variados, los videojuegos, s
 + Leo mucho manga, lo mejor que lei fue 20th Century Boys **RECOMENDADISIMO**. Tambien me gusta leer ciencia ficcion, en especial *Isaac Asimov* y me enanta El Eternauta [*(Hay una animacion buenisima que les recomiendo)*](https://www.youtube.com/watch?v=xVB21JBYvy8)
 * Como hobby amo la electronica *(Soy tecnico electroncio)*, asi que siempre ando con algun proyecto.
 
-![WhatsApp Image 2024-03-22 at 00 22 27](https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/e1df8953-f83e-4772-8a7f-7800e28953ce)
+
+![WhatsApp Image 2024-03-22 at 00 26 13](https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/40ce0b8b-d2f3-41b2-b495-e57f7b7fd07f)
