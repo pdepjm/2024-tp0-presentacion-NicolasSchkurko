@@ -18,4 +18,5 @@ En general me gusta mucho la musica con generos muy variados, los videojuegos, s
 ![WhatsApp Image 2024-03-22 at 00 26 13](https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/40ce0b8b-d2f3-41b2-b495-e57f7b7fd07f)
 
 </details>
+
 >La imagen ocupaba mucho espacio y quedaba gigante asi que la puse en esta seccion
