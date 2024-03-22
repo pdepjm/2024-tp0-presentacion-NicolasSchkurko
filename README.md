@@ -9,4 +9,6 @@ Algunos otros aspectos son:
 * Diseño objetos en 3d *(Tengo mi ender 3 siempre lista)*, les dejo un link a mi cuenta de [cults](https://cults3d.com/es/usuarios/Nicho/modelos-3d).
 + Leo mucho manga, lo mejor que lei fue 20th Century Boys **RECOMENDADISIMO**. Tambien me gusta leer ciencia ficcion, en especial *Isaac Asimov* y me enanta El Eternauta [*(Hay una animacion buenisima que les recomiendo)*](https://www.youtube.com/watch?v=xVB21JBYvy8)
 * Como hobby amo la electronica *(Soy tecnico electroncio)*, asi que siempre ando con algun proyecto.
+
 Aprovechando que hay que subir una foto les muestro un proyecto de modding de un teclado mecanico que empece hace muy poco:
+![IMG_20240321_235806](https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/994e824d-46a5-4e1e-a730-598d134e8a3b)
