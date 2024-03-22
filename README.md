@@ -17,15 +17,15 @@ En general me gusta mucho la musica con generos variados, los videojuegos, la el
 <summary>Imagen Personal</summary>
 
 <img align="left" width="300px" border-radius= "7px"  src="https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/40ce0b8b-d2f3-41b2-b495-e57f7b7fd07f" title="Para achicar la imagen pueden ir la presentacion de Martin Miranda (genio) y robarle el codigo como hice yo xd"> 
-
-</details>
-
 <details>
 <summary>Wololo :trollface:</summary>
 
 https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/5a8a69dc-d2a0-403b-ac96-a2ba05d7d283
 
 </details>
+
+</details>
+
 
 
 
