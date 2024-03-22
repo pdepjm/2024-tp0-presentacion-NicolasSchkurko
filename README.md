@@ -14,9 +14,8 @@ En general me gusta mucho la musica con generos muy variados, los videojuegos, s
 
 <summary>Imagen Personal</summary>
 
-<img align="left" width="300px" border-radius= "7px"  src="https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/40ce0b8b-d2f3-41b2-b495-e57f7b7fd07f"> 
-![WhatsApp Image 2024-03-22 at 00 26 13](https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/40ce0b8b-d2f3-41b2-b495-e57f7b7fd07f)
+<img align="left" width="300px" border-radius= "7px"  src="https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807/40ce0b8b-d2f3-41b2-b495-e57f7b7fd07f" alt="Para achicar la imagen pueden usar la presentacion de Miranda (genio) y robarle el codigo como hice yo xd"> 
 
 </details>
 
->La imagen ocupaba mucho espacio y quedaba gigante asi que la puse en esta seccion
+
