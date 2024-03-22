@@ -1,6 +1,7 @@
 # TP0-K2104
 ## Presentación
 Hola! Soy **Nicolas Schkurko** *Legajo: 214.128-0*, tengo 20 años.
+
 En general me gusta mucho la musica con generos variados, los videojuegos, la electronica y la programacion.
 
 
