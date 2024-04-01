@@ -12,7 +12,8 @@ En general me gusta mucho la musica con generos variados, los videojuegos, la el
 * Como hobby amo la electronica *(Soy tecnico electronico)*, asi que siempre ando con algun proyecto *(De hecho ☝️🤓 ya habia usado git para un [proyecto final](https://gitlab.com/chucoidle/proyecto-final-isj-bartolsic-schkurko-y-castillo) )*.
 * Aprobe física de 1er año con Gambetta *(como la sufri)*
 + Sigo mucho la escena profesional de Counter Strike, mas ahora que esta la major *(Es como si fuera la champions pero de CS)*
->Estoy siempre bancando proyectos nacionales de CS como 9z, Bestia o KRU.
+> Estoy siempre bancando proyectos nacionales de CS como 9z, Bestia o KRU.
+> Este comentario se hizo desde vscode. Testeando la conexion con git
 
 <details>
 <summary>Imagen Personal</summary>
@@ -26,7 +27,6 @@ https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807
 </details>
 
 </details>
->Este comentario se hizo desde vscode. Testeando la conexion con git
 
 
 
