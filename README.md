@@ -26,7 +26,7 @@ https://github.com/pdepjm/2024-tp0-presentacion-NicolasSchkurko/assets/164418807
 </details>
 
 </details>
-
+>Este comentario se hizo desde vscode. Testeando la conexion con git
 
 
 
