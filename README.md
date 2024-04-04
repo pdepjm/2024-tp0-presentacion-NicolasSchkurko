@@ -14,6 +14,7 @@ En general me gusta mucho la musica con generos variados, los videojuegos, la el
 + Sigo mucho la escena profesional de Counter Strike, mas ahora que esta la major *(Es como si fuera la champions pero de CS)*
 > Estoy siempre bancando proyectos nacionales de CS como 9z, Bestia o KRU.
 > Este comentario se hizo desde vscode. Testeando la conexion con git
+> Este comentario se hizo desde vscode. Testeando la conexion con git en chromebook
 
 <details>
 <summary>Imagen Personal</summary>
